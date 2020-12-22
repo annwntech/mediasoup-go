@@ -9,7 +9,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/jiyeyuran/mediasoup-go/netstring"
+	"github.com/annwntech/mediasoup-go/netstring"
 )
 
 const (

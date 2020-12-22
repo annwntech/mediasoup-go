@@ -1,6 +1,6 @@
 package mediasoup
 
-import "github.com/jiyeyuran/mediasoup-go/h264"
+import "github.com/annwntech/mediasoup-go/h264"
 
 var consumerDeviceCapabilities = RtpCapabilities{
 	Codecs: []*RtpCodecCapability{
